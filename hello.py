@@ -56,7 +56,7 @@ def get_visitor():
         print('No database')
         return jsonify([])
 
-# /**
+# /**kapil
 #  * Endpoint to get a JSON array of all the visitors in the database
 #  * REST API example:
 #  * <code>
